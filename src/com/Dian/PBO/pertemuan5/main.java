@@ -34,7 +34,7 @@ public class main {
             etalase[j].showInfo();
         }
 
-        //memasukkan barang ke keranjang
+        //memasukkan barang ke keranjangs
         keranjang[0] = etalase[0];
         System.out.println("barang di keranjang :");
         keranjang[0].showInfo();

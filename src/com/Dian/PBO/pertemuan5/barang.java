@@ -1,7 +1,7 @@
 package com.Dian.PBO.pertemuan5;
 
 public class barang {
-    // atribut
+    // atributs
     String nama;
     int harga;
 
